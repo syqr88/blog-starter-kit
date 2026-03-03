@@ -1,9 +1,16 @@
 ---
 title: "2026 年最值得尝试的 5 个 AI 副业（亲测月入 $300+，无需露脸/押金）"
+excerpt: "前端开发者亲测有效的 AI 副业项目：用 Notion AI、Midjourney、Fiverr 接单，0 基础也能月入 300 美元。全程中文教程，无需露脸、不交押金。"
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2026-03-03"
-description: "前端开发者亲测有效的 AI 副业项目：用 Notion AI、Midjourney、Fiverr 接单，0 基础也能月入 300 美元。全程中文教程，无需露脸、不交押金。"
-tags: ["副业", "AI", "自由职业", "Fiverr", "Notion"]
+author:
+  name: yypll
+  picture: "/assets/blog/authors/jj.jpeg"
+ogImage:
+  url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
+
+
 
 > 💡 **本文适合人群**：程序员、设计师、大学生、居家宝妈——只要你有电脑和网络，就能立刻开始。
 
